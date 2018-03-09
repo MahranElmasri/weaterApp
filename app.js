@@ -24,6 +24,8 @@ geocode.geocodeAddress(argv.a,(errorMessage,result)=>{
             console.log(errorMessage);
         }else{
             console.log(resultWeather)
+            console.log(resultWeather)
+            console.log(resultWeather)
         }
     });
    }
